@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/fewsteps/justtesting.github.com/categories/</loc>
+    <loc>https://fewsteps.github.io/justtesting.github.com/categories/</loc>
   </url><url>
-    <loc>https://github.com/fewsteps/justtesting.github.com/</loc>
+    <loc>https://fewsteps.github.io/justtesting.github.com/</loc>
   </url><url>
-    <loc>https://github.com/fewsteps/justtesting.github.com/tags/</loc>
+    <loc>https://fewsteps.github.io/justtesting.github.com/tags/</loc>
   </url>
 </urlset>
