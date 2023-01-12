@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fewsteps.github.io/justtesting.github.com/categories/</loc>
+    <loc>https://fewsteps.github.io/justtesting.github.com/page/about/</loc>
+    <lastmod>2023-01-12T17:16:15-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/tags/me/</loc>
+    <lastmod>2023-01-12T17:16:15-05:00</lastmod>
   </url><url>
     <loc>https://fewsteps.github.io/justtesting.github.com/</loc>
+    <lastmod>2023-01-12T17:16:15-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/tags/page/</loc>
+    <lastmod>2023-01-12T17:16:15-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/page/</loc>
+    <lastmod>2023-01-12T17:16:15-05:00</lastmod>
   </url><url>
     <loc>https://fewsteps.github.io/justtesting.github.com/tags/</loc>
+    <lastmod>2023-01-12T17:16:15-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/tags/blog/</loc>
+    <lastmod>2023-01-12T17:16:05-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/blog/</loc>
+    <lastmod>2023-01-12T17:16:05-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/blog/hello_world/</loc>
+    <lastmod>2023-01-12T17:16:05-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/blog/tutorial/</loc>
+    <lastmod>2023-01-12T17:16:05-05:00</lastmod>
+  </url><url>
+    <loc>https://fewsteps.github.io/justtesting.github.com/categories/</loc>
   </url>
 </urlset>
